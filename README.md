@@ -1,6 +1,6 @@
 # JANJI-DI-ATAS-PENDERITAAN
 ```
--- Samurai tak tunduk pada kebohongan, suara rakyat tak bisa dibungkam.
+Samurai tak tunduk pada kebohongan, suara rakyat tak bisa dibungkam.
 ```
 *Yo!*
 *Dengar suara dari bawah!*
