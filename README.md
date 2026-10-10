@@ -1,6 +1,7 @@
 # JANJI-DI-ATAS-PENDERITAAN
 **Samurai tak tunduk pada kebohongan, suara rakyat tak bisa dibungkam.**
 --
+```
 *Yo!*
 *Dengar suara dari bawah!*
 *Bukan suara mereka di singgasana,*
@@ -86,4 +87,4 @@
 *Tak boleh dipadamkan!*
 
 *SAMURAI OUT!*
---
+```
